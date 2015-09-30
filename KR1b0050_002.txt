@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書廣聽錄
-#+DATE: 2015-09-23 09:36:19
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:03:41.491224
+#+PROPERTY: ID KR1b0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1b0050_WYG_002-1a>¶
 欽定四庫全書¶
 　尚書廣聽録卷二¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　尚書廣聽録卷二¶
-
